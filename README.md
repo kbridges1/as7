@@ -16,6 +16,7 @@ Time spent: **5** hours spent in total
 	1.) Go to your wordpress local 
 	2.) Click on a post
 	3.) When prompted to reply input the string <a title='x onmouseover=alert(unescape(/hello%20world/.source))
+	
 	style=position:absolute;left:0;top:0;width:5000px;height:5000px  AAAAAAAAAAAA...[64 kb]..AAA'></a> 
   - [X] Affected source code: core Wordpress
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
